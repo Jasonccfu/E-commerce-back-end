@@ -5,7 +5,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Tests](#tests)
 - [Question](#question)
 
 ## Description
@@ -14,11 +13,34 @@ It's a powerful application for controlling with Node.js and SQL. It's easy to e
 
 ## Installation
 
-First step, you will need to clone this project `git@github.com:Jasonccfu/e-commerce-back-end.git`
+Clone the project:
 
-, and you need to install for pakages `npm install --s` (Express, MySQL2, Sequelize and dotenv). Enter your MySQL by `mysql -u root -p`, and use the schema.sql file in the db folder to create your database.
+`git@github.com:Jasonccfu/e-commerce-back-end.git`
 
-`npm run seed` to update your database, and final step is `npm start` to run the application.
+Install pakages:
+
+`npm install` (including Express, MySQL2, Sequelize and dotenv).
+
+Enter your MySQL:
+
+`mysql -u root -p`
+
+`source` the `schema.sql` in `db` folder.
+
+`npm run seed` To seed your database
+
+Creat `.env` file in the project
+,
+
+Example :
+
+```
+DB_NAME='ecommerce_db'
+DB_USER='root'
+DB_PASSWORD=''
+```
+
+`npm start` To start the application.
 
 ## Usage
 
@@ -27,10 +49,6 @@ First step, you will need to clone this project `git@github.com:Jasonccfu/e-comm
 ## License
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
-
-## Tests
-
-There's no tests.
 
 ## Questions
 
