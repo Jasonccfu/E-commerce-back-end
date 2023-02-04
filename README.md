@@ -19,7 +19,7 @@ It's a powerful tool.
 
 ## Usage
 
-[Walkthrough Video](https://watch.screencastify.com/)
+[Walkthrough Video](https://watch.screencastify.com/v/3ZdEwAZNHEkSIl0crRjO)
 
 ## License
 
