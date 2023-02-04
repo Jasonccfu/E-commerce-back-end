@@ -44,7 +44,15 @@ DB_PASSWORD=''
 
 ## Usage
 
-[Walkthrough Video](https://watch.screencastify.com/v/3ZdEwAZNHEkSIl0crRjO)
+Check how to use by [Walkthrough Video](https://watch.screencastify.com/v/3ZdEwAZNHEkSIl0crRjO).
+
+GET and GET by ID routes to return all categories, all products, and all tags being tested in Insomnia Core:
+
+![alt text](assets/01.gif "my screens")
+
+POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
+
+![alt text](assets/02.gif "my screens")
 
 ## License
 
