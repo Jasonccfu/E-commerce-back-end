@@ -10,7 +10,7 @@
 
 ## Description
 
-It's a powerful application for contracting with Node.js and SQL. It's easy to edit your database, and maintain your database. This application will use Express.js API and configure ti use Sequelize to interact with a MySQL database.
+It's a powerful application for controlling with Node.js and SQL. It's easy to edit your database, and maintain your database. This application will use Express.js API and configure ti use Sequelize to interact with a MySQL database.
 
 ## Installation
 
