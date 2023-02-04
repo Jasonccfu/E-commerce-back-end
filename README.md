@@ -29,8 +29,7 @@ Enter your MySQL:
 
 `npm run seed` To seed your database
 
-Creat `.env` file in the project
-,
+Creat `.env` file in the project folder.
 
 Example :
 
